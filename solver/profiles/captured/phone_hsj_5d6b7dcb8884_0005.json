@@ -1,0 +1,281 @@
+{
+  "proof_spec": {
+    "difficulty": 2,
+    "fingerprint_type": 0,
+    "_type": "j",
+    "data": "lAyTsHXhUv5R8QpfirLC7CgQi14EFuvD29T61cIdTjBt8aRGKIU3eKJ+sNx5+f/u/Z5SmC8MefnwDiTeNazdiuRi43pQvT+JwXONE/ROgO88csC5YoSwHGLBmJs35XbcfGMIT4R0oAsgEu0MontIFXvtFRK7GT+FnnNjriSL8R5/Bjm7veA2Ks0YhsAnw4WhK4MMmDTYqvkV3bDS7yR0FPjGhPXCRX6CvGgsPGtUwy6CunmQv0LglRyZqGQ04oeUNdOARJ9jEKLmjSAPez1cHnNxOw==y7rugFI3Q3/0zbnz",
+    "_location": "/c/ba5fadfae2ff428857377d63cc53534c6ea0f425547d569d3a35a6830aa14844",
+    "timeout_value": 1000.0
+  },
+  "rand": [
+    0.6170508887329814,
+    0.7121164104901254
+  ],
+  "components": {
+    "navigator": {
+      "user_agent": "Mozilla/5.0 (Linux; Android 16; ELI-NX9 Build/HONORELI-N39; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.177 Mobile Safari/537.36",
+      "language": "fr-FR",
+      "languages": [
+        "fr-FR",
+        "en-US"
+      ],
+      "platform": "Linux aarch64",
+      "max_touch_points": 5,
+      "webdriver": false,
+      "notification_query_permission": null,
+      "plugins_undefined": false
+    },
+    "screen": {
+      "color_depth": 24,
+      "pixel_depth": 24,
+      "width": 435,
+      "height": 965,
+      "avail_width": 435,
+      "avail_height": 965
+    },
+    "device_pixel_ratio": 2.762500047683716,
+    "has_session_storage": true,
+    "has_local_storage": true,
+    "has_indexed_db": true,
+    "web_gl_hash": "-1",
+    "canvas_hash": "6428703282098620317",
+    "has_touch": true,
+    "notification_api_permission": null,
+    "chrome": false,
+    "to_string_length": 33,
+    "err_firefox": null,
+    "r_bot_score": 0,
+    "r_bot_score_suspicious_keys": [],
+    "r_bot_score_2": 0,
+    "audio_hash": "-1",
+    "extensions": [
+      false
+    ],
+    "parent_win_hash": "14644089306730754478",
+    "webrtc_hash": "-1",
+    "performance_hash": "6103939921903306804",
+    "unique_keys": "1,onDataCallback,hcaptcha,0,grecaptcha,onCancel,onChalExpiredCallback,onloadCallback,onDataErrorCallback,onDataExpiredCallback,onOpen",
+    "inv_unique_keys": "_sharedLibs,hsj,__wdata",
+    "common_keys_hash": 1167056400,
+    "common_keys_tail": "scrollTo,setInterval,setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,crashReport,ontouchcancel,ontouchend,ontouchmove,ontouchstart,originAgentCluster,onorientationchange,orientation,onpageswap,onpagereveal,credentialless,onscrollsnapchange,onscrollsnapchanging,ongamepadconnected,ongamepaddisconnected,ReactNativeWebView,Raven",
+    "features": {
+      "performance_entries": true,
+      "web_audio": true,
+      "web_rtc": true,
+      "canvas_2d": true,
+      "fetch": true
+    }
+  },
+  "events": [
+    [
+      1728464210,
+      "12453990874066414300"
+    ],
+    [
+      3931073091,
+      "15676410585391274299"
+    ],
+    [
+      772896908,
+      "[22]"
+    ],
+    [
+      2935681427,
+      "[4294967295,4294967295,4294967295,4294967295]"
+    ],
+    [
+      2671296585,
+      "9889739995905903119"
+    ],
+    [
+      2075394470,
+      "4932383211497360507"
+    ],
+    [
+      3495389113,
+      "[[\"0zth3bhlXe=M\",\"c\",\"2\",\"UZDUDFFOONDIW\"],[\"=wNYADMYUcKrpUKwitJyF2bITgb=\",\"17\",\"1\",\"HYGZTIYCLXGRY\"]]"
+    ],
+    [
+      2795229317,
+      "[\"DowITNYKTN5yjN0Q\",\"2\",\"a\",\"ZCYRUKOOYZEEX\"]"
+    ],
+    [
+      580323850,
+      "87.55000001192093"
+    ],
+    [
+      2264528771,
+      "[4,128,4]"
+    ],
+    [
+      3923352168,
+      "756874611071873095"
+    ],
+    [
+      1075205395,
+      "[[],35,34,null,true,false,false,37,true,true,false,false,true,[\"ReactNativeWebView\",\"Raven\",\"_sharedLibs\",\"__wdata\",\"hsj\",\"android\",\"WebAssembly\"],[],[],false]"
+    ],
+    [
+      2387740133,
+      "[8192,96,8192,2048,16,2048]"
+    ],
+    [
+      1000750690,
+      "[435,965,435,965,24,24,true,5,2.762500047683716,435,965,true,true,true,false]"
+    ],
+    [
+      3865101243,
+      "[1,1023,1,8,4]"
+    ],
+    [
+      4009980312,
+      "[\"dZBXcmzKMLeLyZPgd=yK\",\"1\",\"3\",\"ZUPELKVVHVFYG\"]"
+    ],
+    [
+      3320102372,
+      "12319876968144734415"
+    ],
+    [
+      2182569285,
+      "122.89999997615814"
+    ],
+    [
+      462289253,
+      "57"
+    ],
+    [
+      2737207841,
+      "[[174,[174,174,174,255,174,174,174,255,174,174,174,255,174,174,174,255]],[[13,0,0,105.015625,15,4,105.6171875],[[13,0,0,105.015625,15,4,105.6171875],[13,0,0,105.015625,15,4,105.6171875],[13,0,0,105.015625,15,4,105.6171875],[13,0,0,105.015625,15,4,105.6171875],[13,0,0,105.015625,15,4,105.6171875],[13,0,0,105.015625,15,4,105.6171875],[13,0,0,105.015625,15,4,105.6171875],[13,0,0,105.015625,15,4,105.6171875],[12,0,-1,122.272216796875,15,4,122.44822692871094]]],[0,1,2,3,4,5,6,7,8,11,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,82,84,86,87,88,89,90],[0,0,0,0,15,4,0]]"
+    ],
+    [
+      4181739560,
+      "[null,false]"
+    ],
+    [
+      58508894,
+      "[null,295966448025,null,null,2330000000,false,false,true,\"cellular\"]"
+    ],
+    [
+      504458258,
+      "[\"5.0 (Linux; Android 16; ELI-NX9 Build/HONORELI-N39; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.177 Mobile Safari/537.36\",\"Mozilla/5.0 (Linux; Android 16; ELI-NX9 Build/HONORELI-N39; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.177 Mobile Safari/537.36\",null,8,\"fr-FR\",[\"fr-FR\",\"en-US\"],\"Linux aarch64\",null,[],null,null,0,0,false,true,0,false,false,false,false,false,false]"
+    ],
+    [
+      1267668072,
+      "17756300211568413683"
+    ],
+    [
+      359759834,
+      "[2147483647,2147483647,2147483647]"
+    ],
+    [
+      3486023461,
+      "[\"Europe/Paris\",-60,-60,-3203647761000,\"heure normale d’Europe centrale\",\"fr-FR\"]"
+    ],
+    [
+      559251292,
+      "true"
+    ],
+    [
+      2972341029,
+      "53.6499999165535"
+    ],
+    [
+      562823142,
+      "16927405672252548354"
+    ],
+    [
+      2426461220,
+      "944"
+    ],
+    [
+      2539159609,
+      "16297405773515472337"
+    ],
+    [
+      2054986590,
+      "1776544548240.7"
+    ],
+    [
+      1866465638,
+      "[\"Qualcomm\",\"Adreno (TM) 720\"]"
+    ],
+    [
+      3427390490,
+      "[[[\"\",570332,1],[\"https://newassets.hcaptcha.com/c/ba5fadfae2ff428857377d63cc53534c6ea0f425547d569d3a35a6830aa14844/hsw.js\",0,3]],[[\"*\",84,9]]]"
+    ],
+    [
+      3055761315,
+      "[84,84,65536,230400,230400]"
+    ],
+    [
+      3911512191,
+      "[32,256,31,16,1024,124,14,128,[23,127,127]]"
+    ],
+    [
+      4181015304,
+      "5886899356571509868"
+    ],
+    [
+      3663932439,
+      "713.2999999523163"
+    ],
+    [
+      317671698,
+      "17832102828165248574"
+    ],
+    [
+      2402750047,
+      "1466083611459767228"
+    ],
+    [
+      1784476536,
+      "[16384,16384,16384,8,8,4]"
+    ],
+    [
+      1369899379,
+      "700"
+    ],
+    [
+      1145363943,
+      "[16,256,1024,7,14,128,[23,127,127]]"
+    ],
+    [
+      3554363111,
+      "[1,4,6,8,10,13,17,21,23,25,29,31]"
+    ],
+    [
+      1181016567,
+      "\"Europe/Paris\""
+    ],
+    [
+      3357624742,
+      "[[\"fetch:99e8afa9525f.w.hcaptcha.com\",47.199999928474426,179.89999997615814],[\"navigation:newassets.hcaptcha.com\",54.699999928474426,97.79999995231628],[\"script:newassets.hcaptcha.com\",72.04999995231628,87.55000001192093],[\"xmlhttprequest:api.hcaptcha.com\",0,70.90000003576279]]"
+    ]
+  ],
+  "suspicious_events": [],
+  "messages": null,
+  "stack_data": [
+    "onloadCallback (data:text/html;charset=utf-8;base64,)",
+    "Array.forEach (<anonymous>)"
+  ],
+  "stamp": "1:2:2026-04-18:lAyTsHXhUv5R8QpfirLC7CgQi14EFuvD29T61cIdTjBt8aRGKIU3eKJ+sNx5+f/u/Z5SmC8MefnwDiTeNazdiuRi43pQvT+JwXONE/ROgO88csC5YoSwHGLBmJs35XbcfGMIT4R0oAsgEu0MontIFXvtFRK7GT+FnnNjriSL8R5/Bjm7veA2Ks0YhsAnw4WhK4MMmDTYqvkV3bDS7yR0FPjGhPXCRX6CvGgsPGtUwy6CunmQv0LglRyZqGQ04oeUNdOARJ9jEKLmjSAPez1cHnNxOw==y7rugFI3Q3/0zbnz::Im5r84VF:e",
+  "href": "data:text/html;charset=utf-8;base64,",
+  "ardata": null,
+  "errs": {
+    "list": []
+  },
+  "perf": [
+    [
+      1,
+      21.0
+    ],
+    [
+      2,
+      147.0
+    ],
+    [
+      3,
+      2.0
+    ]
+  ]
+}

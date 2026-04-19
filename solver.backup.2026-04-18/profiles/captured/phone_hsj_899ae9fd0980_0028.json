@@ -1,0 +1,281 @@
+{
+  "proof_spec": {
+    "difficulty": 2,
+    "fingerprint_type": 0,
+    "_type": "j",
+    "data": "p8wwZ1rkpd0NmvY5H/MJB6YUHKQfnV6YR1j2yKSxe1uHKm/JSs2130lCxIjtQYeLv9stj1/AlwfDc7ka/WJCnoOt0pImSscZlV8NhDUCQBJGFOrbl/rfK9QPEa4Ul+O8+1E0l+BhHlid1t5GPZv2JjyqnYJMfK8GQiDSWttclaaM8des76W5WMje9MDRCL9vGtkA0FYq0+3B2JhOtCTJ6XyZZd20K+j7QZPJk1xGoE0TKC1JbxP8MPXkCRSb5ynSsvh6eTSMlsqC83zhkyvLf5PyPjZYP+pdyM+OBV/N",
+    "_location": "/c/0a9d89a11b3f674bc8f0e08277a6e6a6f7fa172fc9800faf8ec561b3df22ab2f",
+    "timeout_value": 1000.0
+  },
+  "rand": [
+    0.6331676209108105,
+    0.4105443195439875
+  ],
+  "components": {
+    "navigator": {
+      "user_agent": "Mozilla/5.0 (Linux; Android 16; ELI-NX9 Build/HONORELI-N39; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.177 Mobile Safari/537.36",
+      "language": "fr-FR",
+      "languages": [
+        "fr-FR",
+        "en-US"
+      ],
+      "platform": "Linux aarch64",
+      "max_touch_points": 5,
+      "webdriver": false,
+      "notification_query_permission": null,
+      "plugins_undefined": false
+    },
+    "screen": {
+      "color_depth": 24,
+      "pixel_depth": 24,
+      "width": 435,
+      "height": 965,
+      "avail_width": 435,
+      "avail_height": 965
+    },
+    "device_pixel_ratio": 2.762500047683716,
+    "has_session_storage": true,
+    "has_local_storage": true,
+    "has_indexed_db": true,
+    "web_gl_hash": "-1",
+    "canvas_hash": "6428703282098620317",
+    "has_touch": true,
+    "notification_api_permission": null,
+    "chrome": false,
+    "to_string_length": 33,
+    "err_firefox": null,
+    "r_bot_score": 0,
+    "r_bot_score_suspicious_keys": [],
+    "r_bot_score_2": 0,
+    "audio_hash": "-1",
+    "extensions": [
+      false
+    ],
+    "parent_win_hash": "14644089306730754478",
+    "webrtc_hash": "-1",
+    "performance_hash": "4671909646773145131",
+    "unique_keys": "1,onDataCallback,hcaptcha,0,grecaptcha,onCancel,onChalExpiredCallback,onloadCallback,onDataErrorCallback,onDataExpiredCallback,onOpen",
+    "inv_unique_keys": "_sharedLibs,hsj,__wdata",
+    "common_keys_hash": 1167056400,
+    "common_keys_tail": "scrollTo,setInterval,setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,crashReport,ontouchcancel,ontouchend,ontouchmove,ontouchstart,originAgentCluster,onorientationchange,orientation,onpageswap,onpagereveal,credentialless,onscrollsnapchange,onscrollsnapchanging,ongamepadconnected,ongamepaddisconnected,ReactNativeWebView,Raven",
+    "features": {
+      "performance_entries": true,
+      "web_audio": true,
+      "web_rtc": true,
+      "canvas_2d": true,
+      "fetch": true
+    }
+  },
+  "events": [
+    [
+      58508894,
+      "[null,295966448025,null,null,2330000000,false,false,true,\"cellular\"]"
+    ],
+    [
+      2182569285,
+      "129.20000004768372"
+    ],
+    [
+      2426461220,
+      "944"
+    ],
+    [
+      1145363943,
+      "[16,256,1024,7,14,128,[23,127,127]]"
+    ],
+    [
+      4181015304,
+      "5886899356571509868"
+    ],
+    [
+      1728464210,
+      "12453990874066414300"
+    ],
+    [
+      3486023461,
+      "[\"Europe/Paris\",-60,-60,-3203647761000,\"heure normale d’Europe centrale\",\"fr-FR\"]"
+    ],
+    [
+      562823142,
+      "16927405672252548354"
+    ],
+    [
+      2054986590,
+      "1776510414961.4"
+    ],
+    [
+      2539159609,
+      "16297405773515472337"
+    ],
+    [
+      2935681427,
+      "[4294967295,4294967295,4294967295,4294967295]"
+    ],
+    [
+      317671698,
+      "17832102828165248574"
+    ],
+    [
+      1181016567,
+      "\"Europe/Paris\""
+    ],
+    [
+      1075205395,
+      "[[],35,34,null,true,false,false,37,true,true,false,false,true,[\"ReactNativeWebView\",\"Raven\",\"_sharedLibs\",\"__wdata\",\"hsj\",\"android\",\"WebAssembly\"],[],[],false]"
+    ],
+    [
+      3911512191,
+      "[32,256,31,16,1024,124,14,128,[23,127,127]]"
+    ],
+    [
+      3554363111,
+      "[1,4,6,8,10,13,17,21,23,25,29,31]"
+    ],
+    [
+      3663932439,
+      "771.2000000476837"
+    ],
+    [
+      1000750690,
+      "[435,965,435,965,24,24,true,5,2.762500047683716,435,965,true,true,true,false]"
+    ],
+    [
+      3865101243,
+      "[1,1023,1,8,4]"
+    ],
+    [
+      2264528771,
+      "[4,128,4]"
+    ],
+    [
+      3357624742,
+      "[[\"fetch:b5531ac7f7b6.w.hcaptcha.com\",64.5,223.80000007152557],[\"navigation:newassets.hcaptcha.com\",69.39999997615814,118.79999995231628],[\"script:newassets.hcaptcha.com\",22.100000023841858,93.00000005960464],[\"xmlhttprequest:api.hcaptcha.com\",0,88.35000002384186]]"
+    ],
+    [
+      2671296585,
+      "9889739995905903119"
+    ],
+    [
+      3427390490,
+      "[[[\"\",570332,1],[\"https://newassets.hcaptcha.com/c/0a9d89a11b3f674bc8f0e08277a6e6a6f7fa172fc9800faf8ec561b3df22ab2f/hsw.js\",0,3]],[[\"*\",84,9]]]"
+    ],
+    [
+      1267668072,
+      "17756300211568413683"
+    ],
+    [
+      3055761315,
+      "[84,84,65536,230400,230400]"
+    ],
+    [
+      3923352168,
+      "756874611071873095"
+    ],
+    [
+      1369899379,
+      "700"
+    ],
+    [
+      772896908,
+      "[13]"
+    ],
+    [
+      462289253,
+      "57"
+    ],
+    [
+      2075394470,
+      "4932383211497360507"
+    ],
+    [
+      504458258,
+      "[\"5.0 (Linux; Android 16; ELI-NX9 Build/HONORELI-N39; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.177 Mobile Safari/537.36\",\"Mozilla/5.0 (Linux; Android 16; ELI-NX9 Build/HONORELI-N39; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.177 Mobile Safari/537.36\",null,8,\"fr-FR\",[\"fr-FR\",\"en-US\"],\"Linux aarch64\",null,[],null,null,0,0,false,true,0,false,false,false,false,false,false]"
+    ],
+    [
+      2387740133,
+      "[8192,96,8192,2048,16,2048]"
+    ],
+    [
+      3320102372,
+      "12319876968144734415"
+    ],
+    [
+      2737207841,
+      "[[91,[91,91,91,255,91,91,91,255,91,91,91,255,91,91,91,255]],[[13,0,0,105.015625,15,4,105.6171875],[[13,0,0,105.015625,15,4,105.6171875],[13,0,0,105.015625,15,4,105.6171875],[13,0,0,105.015625,15,4,105.6171875],[13,0,0,105.015625,15,4,105.6171875],[13,0,0,105.015625,15,4,105.6171875],[13,0,0,105.015625,15,4,105.6171875],[13,0,0,105.015625,15,4,105.6171875],[13,0,0,105.015625,15,4,105.6171875],[12,0,-1,122.272216796875,15,4,122.44822692871094]]],[0,1,2,3,4,5,6,7,8,11,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,82,84,86,87,88,89,90],[0,0,0,0,15,4,0]]"
+    ],
+    [
+      4009980312,
+      "[\"j2YyZkmlmkblZnZ=Ifal\",\"d\",\"5\",\"JEFGEWHFEQMPM\"]"
+    ],
+    [
+      359759834,
+      "[2147483647,2147483647,2147483647]"
+    ],
+    [
+      559251292,
+      "true"
+    ],
+    [
+      2972341029,
+      "50.69999998807907"
+    ],
+    [
+      4181739560,
+      "[null,false]"
+    ],
+    [
+      1784476536,
+      "[16384,16384,16384,8,8,4]"
+    ],
+    [
+      2795229317,
+      "[\"nyKtn5Yjn0qDOWIt\",\"8\",\"f\",\"GKMQKHRWVHTNA\"]"
+    ],
+    [
+      1866465638,
+      "[\"Qualcomm\",\"Adreno (TM) 720\"]"
+    ],
+    [
+      2402750047,
+      "1466083611459767228"
+    ],
+    [
+      3931073091,
+      "15676410585391274299"
+    ],
+    [
+      3495389113,
+      "[[\"d=GLyoNnA2RH\",\"7\",\"b\",\"LYELAFUGTBSAB\"],[\"0NGz==WNyadMyUckJJUkWItJqN3z\",\"f\",\"18\",\"FQZCTABKDAWFD\"]]"
+    ],
+    [
+      580323850,
+      "109.10000002384186"
+    ]
+  ],
+  "suspicious_events": [],
+  "messages": null,
+  "stack_data": [
+    "onloadCallback (data:text/html;charset=utf-8;base64,)",
+    "Array.forEach (<anonymous>)"
+  ],
+  "stamp": "1:2:2026-04-18:p8wwZ1rkpd0NmvY5H/MJB6YUHKQfnV6YR1j2yKSxe1uHKm/JSs2130lCxIjtQYeLv9stj1/AlwfDc7ka/WJCnoOt0pImSscZlV8NhDUCQBJGFOrbl/rfK9QPEa4Ul+O8+1E0l+BhHlid1t5GPZv2JjyqnYJMfK8GQiDSWttclaaM8des76W5WMje9MDRCL9vGtkA0FYq0+3B2JhOtCTJ6XyZZd20K+j7QZPJk1xGoE0TKC1JbxP8MPXkCRSb5ynSsvh6eTSMlsqC83zhkyvLf5PyPjZYP+pdyM+OBV/N::FqM2Hxjs:4",
+  "href": "data:text/html;charset=utf-8;base64,",
+  "ardata": null,
+  "errs": {
+    "list": []
+  },
+  "perf": [
+    [
+      1,
+      24.0
+    ],
+    [
+      2,
+      156.0
+    ],
+    [
+      3,
+      1.0
+    ]
+  ]
+}

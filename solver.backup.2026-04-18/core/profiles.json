@@ -1,0 +1,215 @@
+{
+  "91e4137f-95af-4bc9-97af-cdcedce21c8c": {
+    "site_type": "epic",
+    "url": "https://www.epicgames.com/id/login?lang=pt-BR&noHostRedirect=true&redirectUrl=https%3A%2F%2Fstore.epicgames.com%2Fpt-BR&client_id=875a3b57d3a640a6b7f9b4e883463ab4",
+    "href": "https://www.epicgames.com/id/login?lang=pt-BR&noHostRedirect=true&redirectUrl=https%3A%2F%2Fstore.epicgames.com%2Fpt-BR&client_id=875a3b57d3a640a6b7f9b4e883463ab4",
+    "fp_mode": "epic_pool",
+    "p_e_count": 1,
+    "overrides": {
+      "canvas_hash": "17412851421643673202",
+      "parent_win_hash": "13973576902552973121",
+      "performance_hash": "4837630727981787945",
+      "unique_keys": "_epicEnableCookieGuard,a0_0x36f8,core,AppInit,__core-js_shared__,_epicTrackingCountryCode,_sentryDebugIds,talon,SENTRY_RELEASE,k,__axiosInstanceCached,__tracking_base,MotionHandoffIsComplete,__STATSIG__,0,a0_0x5ba2,i,__SENTRY__,_sentryDebugIdIdentifier,hcaptcha,1,__store,setImmediate,__axiosInstance,regeneratorRuntime,2,grecaptcha,_epicTrackingCookieDomainId,_epicTracking,clearImmediate",
+      "inv_unique_keys": "global,_sharedLibs,hsj,__wdata,8476431583",
+      "common_keys_hash": 3319060579,
+      "common_keys_tail": "scrollTo,setInterval,setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,crashReport,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,onpointerrawupdate,caches,documentPictureInPicture,sharedStorage,fetchLater,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,viewport,onpageswap,onpagereveal,credentialless,fence,launchQueue,speechSynthesis,onscrollsnapchange,onscrollsnapchanging,ongamepadconnected,ongamepaddisconnected,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven"
+    },
+    "event_overrides": {
+      "1075205395": "[[\"loadTimes\",\"csi\",\"app\"],35,34,null,false,false,true,37,true,true,true,true,true,[\"Raven\",\"_sharedLibs\",\"8476431583\",\"global\",\"__wdata\",\"hsj\"],[],[2],true]",
+      "2402750047": "18437843324563249497",
+      "317671698": "2337666753322697468",
+      "3405509837": "8022061930804573802",
+      "2539159609": "16373752545305569922",
+      "4181015304": "13205868561824496197",
+      "3923352168": "756874611071873095",
+      "562823142": "16927405672252548354",
+      "1728464210": "8473551219770411651",
+      "3931073091": "9345374751420407194",
+      "2075394470": "4932383211497360507",
+      "462289253": "57",
+      "1145363943": "[16,1024,4096,7,12,120,[23,127,127]]",
+      "3865101243": "[1,1024,1,1,4]",
+      "2387740133": "[16384,32,16384,2048,2,2048]",
+      "2935681427": "[4294967295,4294967295,4294967295,4294967295]",
+      "359759834": "[2147483647,2147483647,4294967294]",
+      "3962939203": "[-6.172840118408203,-20.710678100585938,120.71067810058594,-20.710678100585938,141.42135620117188,120.71067810058594,-20.710678100585938,141.42135620117188,-20.710678100585938,-20.710678100585938,0,0,300,150,false]",
+      "1369899379": "702"
+    },
+    "stack_data": [
+      "Array.forEach (<anonymous>)",
+      "new Promise (<anonymous>)",
+      "Array.map (<anonymous>)\nnew Promise (<anonymous>)",
+      "Generator.next (<anonymous>)"
+    ],
+    "perf": {
+      "phases": 3,
+      "phase1_range": [
+        15,
+        50
+      ],
+      "phase2_range": [
+        100,
+        250
+      ]
+    },
+    "discord_only_events": false
+  },
+  "a9b5fb07-92ff-493f-86fe-352a2803b3df": {
+    "site_type": "discord",
+    "url": "https://discord.com/register",
+    "href": "https://discord.com/register",
+    "fp_mode": "pool",
+    "p_e_count": 2,
+    "overrides": {
+      "unique_keys": [
+        "OGVMediaError",
+        "regeneratorRuntime",
+        "__sentry_instrumentation_handlers__",
+        "1",
+        "_libdiscoreInitialized",
+        "GLOBAL_ENV",
+        "__BILLING_STANDALONE__",
+        "OGVCompat",
+        "webpackChunkdiscord_app",
+        "__localeData__",
+        "OGVVersion",
+        "hcaptcha",
+        "0",
+        "__OVERLAY__",
+        "DiscordErrors",
+        "clearImmediate",
+        "DiscordSentry",
+        "__TTI_COMPLETED",
+        "OGVPlayer",
+        "_libdiscoreInitPromise",
+        "__timingFunction",
+        "OGVTimeRanges",
+        "_libdiscoreWasm",
+        "hcaptchaOnLoad",
+        "IntlPolyfill",
+        "OGVLoader",
+        "__SENTRY__",
+        "OGVMediaType",
+        "__DISCORD_WINDOW_ID",
+        "setImmediate",
+        "__reactRouterVersion",
+        "2",
+        "platform"
+      ],
+      "inv_unique_keys": [
+        "localStorage",
+        "_sharedLibs",
+        "hsj",
+        "__wdata",
+        "sessionStorage"
+      ],
+      "common_keys_hash": 2661537866,
+      "common_keys_tail": "setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,chrome,crashReport,cookieStore,ondevicemotion,ondeviceorientation,ondeviceorientationabsolute,onpointerrawupdate,caches,documentPictureInPicture,sharedStorage,fetchLater,getScreenDetails,queryLocalFonts,showDirectoryPicker,showOpenFilePicker,showSaveFilePicker,originAgentCluster,viewport,onpageswap,onpagereveal,credentialless,fence,launchQueue,speechSynthesis,onscrollsnapchange,onscrollsnapchanging,ongamepadconnected,ongamepaddisconnected,webkitRequestFileSystem,webkitResolveLocalFileSystemURL,Raven",
+      "parent_win_hash": "random",
+      "performance_hash": "random"
+    },
+    "event_overrides": {
+      "1075205395": "[[\"loadTimes\",\"csi\",\"app\"],35,34,null,false,false,true,37,true,true,true,true,true,[\"Raven\",\"_sharedLibs\",\"__wdata\",\"hsj\"],[],[2],true]",
+      "772896908": [
+        "[16]",
+        "[20]"
+      ],
+      "3554363111": "[1,4,5,7,9,12,20,21,23,25,29,31]"
+    },
+    "stack_data": [
+      "Array.forEach (<anonymous>)"
+    ],
+    "perf": {
+      "phases": 2,
+      "phase1_range": [
+        8,
+        50
+      ],
+      "phase2_range": [
+        966,
+        2037
+      ]
+    },
+    "discord_only_events": true
+  },
+  "e2f713c5-b5ce-41d0-b65f-29823df542cf": {
+    "site_type": "discord",
+    "url": "data:text/html;charset=utf-8;base64,",
+    "href": "data:text/html;charset=utf-8;base64,",
+    "fp_mode": "pool",
+    "p_e_count": 2,
+    "overrides": {
+      "unique_keys": "1,onDataCallback,hcaptcha,0,grecaptcha,onCancel,onChalExpiredCallback,onloadCallback,onDataErrorCallback,onDataExpiredCallback,onOpen",
+      "inv_unique_keys": "_sharedLibs,hsj,__wdata",
+      "common_keys_hash": 1167056400,
+      "common_keys_tail": "scrollTo,setInterval,setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,originAgentCluster,onorientationchange,orientation,onpageswap,onpagereveal,credentialless,onscrollsnapchange,onscrollsnapchanging,ongamepadconnected,ongamepaddisconnected,crashReport,ontouchcancel,ontouchend,ontouchmove,ontouchstart,ReactNativeWebView,Raven",
+      "parent_win_hash": "random",
+      "performance_hash": "random"
+    },
+    "event_overrides": {
+      "3554363111": "[1,4,6,8,9,10,13,17,21,23,25,29,31]",
+      "772896908": "[20]",
+      "1075205395": "[[],35,34,null,true,false,false,37,true,true,false,false,true,[\"ReactNativeWebView\",\"Raven\",\"_sharedLibs\",\"__wdata\",\"hsj\"],[],[2],true]"
+    },
+    "stack_data": [
+      "onloadCallback (data:text/html;charset=utf-8;base64,)",
+      "Array.forEach (<anonymous>)"
+    ],
+    "perf": {
+      "phases": 3,
+      "phase1_range": [
+        15,
+        40
+      ],
+      "phase2_range": [
+        200,
+        400
+      ],
+      "phase3_range": [
+        1,
+        4
+      ]
+    },
+    "discord_only_events": true
+  },
+  "discord_join": {
+    "site_type": "discord",
+    "url": "data:text/html;charset=utf-8;base64,",
+    "href": "data:text/html;charset=utf-8;base64,",
+    "fp_mode": "pool",
+    "p_e_count": 2,
+    "overrides": {
+      "unique_keys": "1,onDataCallback,hcaptcha,0,grecaptcha,onCancel,onChalExpiredCallback,onloadCallback,onDataErrorCallback,onDataExpiredCallback,onOpen",
+      "inv_unique_keys": "_sharedLibs,hsj,__wdata",
+      "common_keys_hash": 1167056400,
+      "common_keys_tail": "scrollTo,setInterval,setTimeout,stop,structuredClone,webkitCancelAnimationFrame,webkitRequestAnimationFrame,originAgentCluster,onorientationchange,orientation,onpageswap,onpagereveal,credentialless,onscrollsnapchange,onscrollsnapchanging,ongamepadconnected,ongamepaddisconnected,crashReport,ontouchcancel,ontouchend,ontouchmove,ontouchstart,ReactNativeWebView,Raven",
+      "parent_win_hash": "random",
+      "performance_hash": "random"
+    },
+    "event_overrides": {
+      "3554363111": "[1,4,6,8,9,10,13,17,21,23,25,29,31]",
+      "772896908": "[20]",
+      "1075205395": "[[],35,34,null,true,false,false,37,true,true,false,false,true,[\"ReactNativeWebView\",\"Raven\",\"_sharedLibs\",\"__wdata\",\"hsj\"],[],[2],true]"
+    },
+    "stack_data": [
+      "onloadCallback (data:text/html;charset=utf-8;base64,)",
+      "Array.forEach (<anonymous>)"
+    ],
+    "perf": {
+      "phases": 3,
+      "phase1_range": [
+        15,
+        40
+      ],
+      "phase2_range": [
+        200,
+        400
+      ],
+      "phase3_range": [
+        1,
+        4
+      ]
+    },
+    "discord_only_events": true
+  }
+}

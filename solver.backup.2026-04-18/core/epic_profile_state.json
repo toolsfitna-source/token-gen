@@ -1,0 +1,504 @@
+{
+  "outcomes": {
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c41_sfp.json": {
+      "success": 8,
+      "fail": 2,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c03_sfp.json": {
+      "success": 2,
+      "fail": 2,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c19_sfp.json": {
+      "success": 2,
+      "fail": 1,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c78_sfp.json": {
+      "success": 4,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c48_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c23_sfp.json": {
+      "success": 2,
+      "fail": 2,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c73_sfp.json": {
+      "success": 2,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c58_sfp.json": {
+      "success": 2,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c21_sfp.json": {
+      "success": 0,
+      "fail": 3,
+      "fail_streak": 3
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c14_sfp.json": {
+      "success": 1,
+      "fail": 4,
+      "fail_streak": 2
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c60_sfp.json": {
+      "success": 3,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c90_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c10_sfp.json": {
+      "success": 0,
+      "fail": 3,
+      "fail_streak": 3
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c32_sfp.json": {
+      "success": 3,
+      "fail": 1,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c91_sfp.json": {
+      "success": 2,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c39_sfp.json": {
+      "success": 4,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c26_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c36_sfp.json": {
+      "success": 3,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c81_sfp.json": {
+      "success": 4,
+      "fail": 2,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c71_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c37_sfp.json": {
+      "success": 2,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c12_sfp.json": {
+      "success": 2,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c06_sfp.json": {
+      "success": 0,
+      "fail": 3,
+      "fail_streak": 3
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c65_sfp.json": {
+      "success": 3,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c80_sfp.json": {
+      "success": 2,
+      "fail": 2,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c85_sfp.json": {
+      "success": 2,
+      "fail": 1,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c08_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "fingerprint-67.json": {
+      "success": 2,
+      "fail": 2,
+      "fail_streak": 0
+    },
+    "fingerprint-944.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "fingerprint-112.json": {
+      "success": 1,
+      "fail": 1,
+      "fail_streak": 0
+    },
+    "fingerprint-150.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "fingerprint-167.json": {
+      "success": 2,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "fingerprint-768.json": {
+      "success": 1,
+      "fail": 1,
+      "fail_streak": 0
+    },
+    "fingerprint-780.json": {
+      "success": 1,
+      "fail": 1,
+      "fail_streak": 0
+    },
+    "fingerprint-184.json": {
+      "success": 1,
+      "fail": 4,
+      "fail_streak": 0
+    },
+    "fingerprint-124.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "fingerprint-794.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "fingerprint-154.json": {
+      "success": 2,
+      "fail": 1,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c00_sfp.json": {
+      "success": 2,
+      "fail": 2,
+      "fail_streak": 0
+    },
+    "fingerprint-825.json": {
+      "success": 1,
+      "fail": 2,
+      "fail_streak": 2
+    },
+    "fingerprint-168.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "fingerprint-782.json": {
+      "success": 1,
+      "fail": 2,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c29_sfp.json": {
+      "success": 1,
+      "fail": 3,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c59_sfp.json": {
+      "success": 0,
+      "fail": 3,
+      "fail_streak": 3
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c70_sfp.json": {
+      "success": 1,
+      "fail": 2,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c18_sfp.json": {
+      "success": 2,
+      "fail": 2,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c07_sfp.json": {
+      "success": 3,
+      "fail": 1,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c83_sfp.json": {
+      "success": 0,
+      "fail": 3,
+      "fail_streak": 3
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c87_sfp.json": {
+      "success": 2,
+      "fail": 1,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c69_sfp.json": {
+      "success": 2,
+      "fail": 1,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c67_sfp.json": {
+      "success": 0,
+      "fail": 3,
+      "fail_streak": 3
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c68_sfp.json": {
+      "success": 0,
+      "fail": 3,
+      "fail_streak": 3
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c93_sfp.json": {
+      "success": 1,
+      "fail": 2,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c01_sfp.json": {
+      "success": 1,
+      "fail": 2,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c05_sfp.json": {
+      "success": 0,
+      "fail": 3,
+      "fail_streak": 3
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c43_sfp.json": {
+      "success": 0,
+      "fail": 3,
+      "fail_streak": 3
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c33_sfp.json": {
+      "success": 0,
+      "fail": 3,
+      "fail_streak": 3
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c95_sfp.json": {
+      "success": 2,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c54_sfp.json": {
+      "success": 2,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c63_sfp.json": {
+      "success": 3,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c74_sfp.json": {
+      "success": 3,
+      "fail": 2,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c92_sfp.json": {
+      "success": 0,
+      "fail": 3,
+      "fail_streak": 3
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c13_sfp.json": {
+      "success": 2,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c66_sfp.json": {
+      "success": 0,
+      "fail": 3,
+      "fail_streak": 3
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c64_sfp.json": {
+      "success": 2,
+      "fail": 1,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c20_sfp.json": {
+      "success": 2,
+      "fail": 1,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c34_sfp.json": {
+      "success": 2,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c82_sfp.json": {
+      "success": 3,
+      "fail": 2,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c42_sfp.json": {
+      "success": 0,
+      "fail": 3,
+      "fail_streak": 3
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c30_sfp.json": {
+      "success": 0,
+      "fail": 3,
+      "fail_streak": 3
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c27_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c55_sfp.json": {
+      "success": 0,
+      "fail": 1,
+      "fail_streak": 1
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c46_sfp.json": {
+      "success": 0,
+      "fail": 1,
+      "fail_streak": 1
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c15_sfp.json": {
+      "success": 2,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c79_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c84_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c53_sfp.json": {
+      "success": 2,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c16_sfp.json": {
+      "success": 3,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c28_sfp.json": {
+      "success": 2,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c22_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c45_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c17_sfp.json": {
+      "success": 2,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c31_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c02_sfp.json": {
+      "success": 2,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c57_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c89_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c25_sfp.json": {
+      "success": 2,
+      "fail": 1,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c72_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c11_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c40_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c50_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c38_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c88_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c49_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c76_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c47_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c51_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c09_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c94_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    },
+    "static_fp_Africa_Cairo__en_US__nvidia__1680x1050@1_25__c75_sfp.json": {
+      "success": 1,
+      "fail": 0,
+      "fail_streak": 0
+    }
+  }
+}
