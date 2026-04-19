@@ -1,6 +1,6 @@
 # Discord Token Generator
 
-Android-style Discord token generator built on a custom OkHttp + Conscrypt TLS stack and an integrated hCaptcha HSJ solver with real phone fingerprint replay.
+Android-style Discord token generator built on a custom OkHttp + Conscrypt TLS stack and an integrated h******* HSJ solver with real phone fingerprint replay.
 
 ## ⚠️ Disclaimer
 
@@ -15,7 +15,7 @@ By running this tool you accept full liability for what you do with it. Use it t
 ## Features
 
 - **Android client emulation** — mimics Discord Android 323.12 (OkHttp + Conscrypt) with matching TLS/HTTP2 fingerprint via a Java proxy. Falls back to `tls_client` when the Java backend is unavailable.
-- **Integrated hCaptcha solver** (`solver/`) — local HSJ proof-of-work with captured real-phone fingerprint replay. Silent-passes when the profile matches; image challenges are routed to nopecha.
+- **Integrated h******* solver** (`solver/`) — local HSJ proof-of-work with captured real-phone fingerprint replay. Silent-passes when the profile matches; image challenges are routed to nopecha.
 - **Multiple captcha providers** — HSJ local (default), aiclientz, anysolver (RiskBypass / VoidSolver / OnyxSolver / EZCaptcha / AetherSolver / BruxSolver), OnyxSolver direct.
 - **Email providers** — CyberTemp (temp mail, default), Hotmail/Outlook via IMAP, Zeus (on-demand purchase API).
 - **Optional phone verification** via HeroSMS.
@@ -75,7 +75,7 @@ Typical deps: `requests`, `websocket-client`, `tls_client`, `pycryptodome`, `zst
 
 ## Proxies
 
-**Use residential or mobile proxies.** Datacenter proxies are instantly flagged by hCaptcha and Discord risk scoring — tokens made on them will die on first phone/email verify prompt or get phone-locked at creation.
+**Use residential or mobile proxies.** Datacenter proxies are instantly flagged by h******* and Discord risk scoring — tokens made on them will die on first phone/email verify prompt or get phone-locked at creation.
 
 Recommended:
 - **Mobile** (4G/5G rotating) — best silent-pass rate, lowest account mortality.
@@ -127,7 +127,7 @@ The default `hsj` solver:
 - Replays **real Android WebView fingerprints** captured from actual phones.
 - Rotates the fingerprint tuple (canvas / parent_win / performance / common_keys) per solve from a 2800+ entry pool.
 - Silent-passes when the captured profile scores well; otherwise falls back to nopecha for image recognition (~60% success on drag-drop).
-- Auto-retries up to 4 times on checkcaptcha rejection with fresh challenges from hCaptcha.
+- Auto-retries up to 4 times on checkcaptcha rejection with fresh challenges from h*******.
 
 External solvers (aiclientz, anysolver, onyx) are supported for users who prefer paid services.
 
@@ -147,8 +147,8 @@ TokenGen/
 │   ├── input/              # hotmail lists (optional)
 │   └── output/             # tokens.txt, accounts.json
 ├── okhttp-proxy/           # Java TLS proxy (jar + sources)
-└── solver/                 # hCaptcha HSJ solver (self-contained)
-    ├── hcaptcha_solver.py
+└── solver/                 # h******* HSJ solver (self-contained)
+    ├── h*******_solver.py
     ├── phone_profile.py
     ├── phone_motion.py
     ├── patch_hsj_events.py
