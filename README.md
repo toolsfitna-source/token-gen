@@ -32,7 +32,7 @@ By running this tool you accept full liability for what you do with it. Use it t
 - **Python 3.10+**
 - **Java 17+** (for the OkHttp proxy backend)
 - **Node.js 18+** (fallback path for hsj.js execution — optional if phone profile replay is available)
-- **Windows / Linux / macOS**
+- **Windows 10/11 only**
 
 Install Python dependencies:
 
@@ -78,8 +78,8 @@ Typical deps: `requests`, `websocket-client`, `tls_client`, `pycryptodome`, `zst
 **Use residential or mobile proxies.** Datacenter proxies are instantly flagged by h******* and Discord risk scoring — tokens made on them will die on first phone/email verify prompt or get phone-locked at creation.
 
 Recommended:
-- **Mobile** (4G/5G rotating) — best silent-pass rate, lowest account mortality.
-- **Residential** (ISP-rotating) — good balance of cost and success.
+- **Mobile** (4G/5G sticky) — best silent-pass rate, lowest account mortality.
+- **Residential** (sticky) — good balance of cost and success.
 
 Avoid:
 - Datacenter IPs (AWS / OVH / DigitalOcean ranges).
